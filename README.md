@@ -15,6 +15,10 @@ Welcome to the Streamlit FCS App! Tailored for the FCS students, this app showca
 
 ## Getting Started
 
+### Demo
+
+A live demo of the app can be found [here](https://fcs-intro.streamlit.app/).
+
 ### Prerequisites
 
 - Python 3.8 or newer.

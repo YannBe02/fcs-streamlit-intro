@@ -235,13 +235,18 @@ st.markdown("""
             This approach ensures that everyone has the necessary libraries at the correct versions to run your Streamlit app seamlessly!
 
             ### 3. **Running this Streamlit App**:
-            First, install the required libraries using the `requirements.txt` file:
+            First, clone the [github repository](https://github.com/hawk-li/fcs-streamlit-intro) or download and extract the zip file containing this Streamlit app. Then, navigate to the directory containing this Streamlit app using the terminal or command prompt.
+            Make sure you have created and activated a new Anaconda environment as described in the previous section.
+            ```bash	
+            cd path/to/streamlit-tutorial
+            ```
+            Second, install the required libraries using the `requirements.txt` file:
             ```bash
             pip install -r requirements.txt
             ```
             Then, run this Streamlit app using:
             ```bash
-            streamlit run intro_app.py
+            streamlit run app.py
             ```
             """)
 
@@ -264,4 +269,4 @@ Happy Learning!
 
 # Footer
 st.write("---")
-st.write("FCS Streamlit Tutorial • Designed with ❤️ for Bachelor Students in Business")
+st.write("FCS Streamlit Tutorial • Designed with ❤️ for Bachelor Students in Business Administration")
