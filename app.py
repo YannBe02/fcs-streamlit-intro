@@ -4,6 +4,9 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
+# Tab Title
+st.set_page_config(page_title="FCS Streamlit Tutorial", page_icon=":computer:")
+
 # Title & Intro
 st.title("Hello, FCS!")
 st.write("""
@@ -112,7 +115,7 @@ for module in selected_modules:
 
 # Slider
 st.subheader("Slider")
-gpa = st.slider("Select your GPA", min_value=1.0, max_value=6.0, step=0.1)
+gpa = st.slider("Select your GPA", min_value=1.0, max_value=6.0, step=0.1, value=3.5)
 st.write(f"Your GPA is: {gpa}")
 
 # Show Chart, gauss distribution from 1-6, and show the selected GPA
