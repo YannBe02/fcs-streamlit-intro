@@ -261,11 +261,12 @@ To dive deeper into Streamlit and its capabilities, students are encouraged to:
 
 1. Visit the [official Streamlit documentation](https://docs.streamlit.io/)
 2. Explore the [Streamlit gallery for inspiration](https://streamlit.io/gallery)
-3. Check out the [Streamlit community](https://discuss.streamlit.io/) for help
+3. Check out [30 days of Streamlit](https://30days.streamlit.app/) for a guided introduction to Streamlit
 4. Check out the [Streamlit cheatsheet](https://cheat-sheet.streamlit.app/) for a quick overview of Streamlit's features
 5. Check out the [Streamlit tutorial](https://docs.streamlit.io/en/stable/tutorial/index.html) for a more detailed introduction
 6. Check out the [Streamlit API reference](https://docs.streamlit.io/en/stable/api.html) for a detailed overview of Streamlit's API
 7. Check out the [Streamlit extras](https://extras.streamlit.app/) for additional features
+8. Check out the [Streamlit community](https://discuss.streamlit.io/) for help
 
 Happy Learning!
 """)
